@@ -1,6 +1,6 @@
-<p align="center"><a href="https://advantagecsp.com/" rel="noopener" target="_blank"><img width="500px" src="https://advantagecsp.com/Assets/AdvantageCMS/Images/advantagecsp-2x.png" alt="Advantage CSP - Enterprise-Class Content Management System"></a></p>
+﻿<p align="center"><a href="https://advantagecsp.com/" rel="noopener" target="_blank"><img width="500px" src="https://advantagecsp.com/Assets/AdvantageCMS/Images/advantagecsp-2x.png" alt="Advantage CSP - Enterprise-Class Content Management System"></a></p>
 
-## About Advantage CSP
+## About Advantage CSP ##
 
 Build Better Digital Products, Faster. Advantage CSP is an enterprise-class content services platform that powers complex websites, mobile apps, and business applications while offering the flexibility to adapt to each organization's unique processes and workflows.
 
@@ -16,7 +16,7 @@ You can learn all about it at [advantagecsp.com](https://advantagecsp.com), and 
 
 ## Tech Specs
 
-You must install .Net Framework 4.6.2 or higher developer pack. You should have Visual Studio 2015 or higher(2017 - Recommended). You should have SQL 2012 or higher. Learn more here: https://support.advantagecsp.com/hc/en-us/articles/360024704171-Project-Overview
+You must install .Net Framework 4.7.1 or higher developer pack. You should have Visual Studio 2015 or higher(2017 - Recommended). You should have SQL 2012 or higher. Learn more here: https://support.advantagecsp.com/hc/en-us/articles/360024704171-Project-Overview
 
 ## Popular Resources
 
