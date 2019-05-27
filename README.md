@@ -23,4 +23,3 @@ You must install .Net Framework 4.7.1 or higher developer pack. You should have 
 - **[Documentation](https://support.advantagecsp.com/hc/en-us/categories/360001530711-Developer-Guide)** – Read the official docs.
 - **[Guides](https://support.advantagecsp.com/hc/en-us/categories/115001150106-Admin-User-Guide)** – Follow along with the official guides.
 - **[#advantagecsp](https://twitter.com/hashtag/advantagecsp)** – See the latest tweets about Advantage CSP.
-- **[Stack Exchange](https://area51.stackexchange.com/proposals/121632/advantage-csp)** – Get help and help others.
