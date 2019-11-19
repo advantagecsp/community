@@ -29,10 +29,10 @@ You must install .Net Framework 4.7.1 or higher developer pack. You should have 
 - Install -> Stop all instances of Visual studio and double-click to install the .vsix.
 - Create Project -> Open Visual Studio -> Create a new project -> Select "AdvantageCSP Project" type.
 - Configure Database -> Open the web.config and set the connection string for your database server.  Make sure the user specified has privileges to create a new database
-- - Server -> Name or IP address of database server
-- - Database -> Name of the database that will be created for this project (will automatically be created on initialization.
-- - User -> SQL Server user ID
-- - Password -> SQL Server password
+	- Server -> Name or IP address of database server
+	- Database -> Name of the database that will be created for this project (will automatically be created on initialization.
+	- User -> SQL Server user ID
+	- Password -> SQL Server password
 - On startup you will will land on the default "Coming Soon" page.  Navigate to the /advantagecsp/initializecsp to begin setup of the project.
 
 
