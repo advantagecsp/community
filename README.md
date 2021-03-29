@@ -1,4 +1,4 @@
-﻿<p align="center"><a href="https://advantagecsp.com/" rel="noopener" target="_blank"><img width="500px" src="https://advantagecsp.com/Assets/AdvantageCMS/Images/advantagecsp-2x.png" alt="Advantage CSP - Enterprise-Class Content Management System"></a></p>
+﻿<p align="center"><a href="https://advantagecsp.com/Assets/AdvantageCMS/Images/advantagecsp-2x.png" rel="noopener" target="_blank"><img width="500px" src="https://advantagecsp.com/Assets/AdvantageCMS/Images/advantagecsp-2x.png" alt="Advantage CSP - Enterprise-Class Content Management System"></a></p>
 
 ## About Advantage CSP ##
 
